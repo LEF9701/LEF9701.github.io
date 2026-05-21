@@ -1,0 +1,4 @@
+title: Lawrence
+description: Personal site
+permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown
